@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PartZ24
-- 👀 I’m interested in Machine Learning,AI & Data Science.
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me - parthpandkar8121999@gmail.com
+- Hi, Im Parth an MBA with Finance major with keen passion for business & data analytics and leveraging AI,ML & Statistics to solve real-world problems in emerging markets.
+- I have completed my Undergrad in Computer Science Engineering & Postgrad in MBA with specilisation in Finance & Business Analytics. 
+- Email - parthpandkar8121999@gmail.com
 
 <!---
 PartZ24/PartZ24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
