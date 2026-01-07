@@ -15,13 +15,7 @@ Computer Vision: Object detection and image processing techniques
 Risk Analytics: Monte Carlo simulations, Value at Risk (VaR), and statistical modeling
 Financial Technology: Integrating AI/ML solutions in financial products and services
 **
-🚀 Featured Projects
-**Cryptocurrency Portfolio Optimization**
-Built ML models (XGBoost, LSTM) to predict crypto prices using technical indicators (MACD, RSI, SMA, EMA). Designed risk-optimized portfolios outperforming Bitcoin Index by 12% with 27% absolute return optimization using Monte Carlo simulations and VaR analysis.
-Runway Detection & Localisation
-Developed machine learning models for efficient runway detection using advanced image processing techniques and object detection algorithms.
-Stock Portfolio Analysis Using Statistical Modelling
-Applied statistical techniques and regression models to analyze equity portfolios, achieving 15% portfolio return optimization and 11% higher returns than Nifty Midcap 100.
+
 💼 Technical Skills
 Languages: Python, C++, SQL, JavaScript, HTML, CSS
 ML/Data Science: NumPy, Pandas, Scikit-learn, Statsmodels, XGBoost, LSTM
