@@ -3,7 +3,7 @@ Hi there, I'm Parth Pandkar 👋
 *************************************************************************************************************
 About Me,
 
-I'm a finance & risk Management professional with a strong technical foundation in Computer Science, Machine Learning & Statistical Analytics. I am an actice investor/trader equity & derivative markets. Currently working at Signpost India Ltd., I bridge the gap between finance and technology to drive data-driven decision-making.
+I'm a finance & risk management professional with a strong technical foundation in Computer Science, Machine Learning & Statistical Analytics. I am an active investor/trader equity & derivative markets. Currently working at Signpost India Ltd., I bridge the gap between finance and technology to drive data-driven decision-making.
 Background:
 
 🎓 MBA in Finance & Business Analytics from FLAME University, Pune
