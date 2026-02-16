@@ -14,9 +14,9 @@ Background:
 🔬 Research & Project Interests
 
 1. Quantitative Finance: Portfolio optimization, risk modeling and testing algorithmic trading strategies.
-2. Machine Learning in Finance: Price prediction models using XGBoost, LSTM and Linear Regression.
+2. Machine Learning in Finance: Price prediction models using XGBoost, LSTM and Multiple Regression.
 3. Risk Analytics: Monte Carlo simulations, Value at Risk (VaR) and statistical modeling for portfolio optimization.
-4. DCF Valuation in excel for BajajConsumer company.
+4. DCF Valuation & variance analysis in excel for indian companies who are ESG compliant.
 5. Currently working on Nifty/BankNifty Index Options Algo Trading research & development
 *************************************************************************************************************
 
